@@ -1,0 +1,3 @@
+interface FruitJuicer {
+    void prepareJuice();
+}
